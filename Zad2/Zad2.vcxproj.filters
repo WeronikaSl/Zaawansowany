@@ -18,6 +18,9 @@
     <ClCompile Include="Zad2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="PositivNum.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="PositivNum.hpp">

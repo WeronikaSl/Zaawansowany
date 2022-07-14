@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="PositivNum.cpp" />
     <ClCompile Include="Zad2.cpp" />
   </ItemGroup>
   <ItemGroup>
