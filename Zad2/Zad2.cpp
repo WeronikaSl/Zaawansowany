@@ -5,15 +5,17 @@
 
 int main()
 {
-	PositivNumber num1(100);
+
 	double num = 10;
 	try
 	{
-		PositivNumber num2 = num1 - num;
+		PositivNumber num1(15);
+		PositivNumber num3(-15);
+		//PositivNumber num2 = num1 - num;
 	}
-	catch (std::string& error)
+	catch (const std::out_of_range& error)
 	{
-		std::cout << error << std::endl;
+		std::cout << error.what() << std::endl;
 	}
 
 }

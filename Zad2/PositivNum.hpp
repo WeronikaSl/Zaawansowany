@@ -38,3 +38,6 @@ public:
 private:
     double _value = 0.0;
 };
+
+PositivNumber operator+(double first, const PositivNumber& second);
+PositivNumber operator-(double first, const PositivNumber& second);
