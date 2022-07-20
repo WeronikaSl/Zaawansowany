@@ -1,0 +1,8 @@
+﻿  MyTemplates.cpp
+C:\Users\Weronika Słowińska\OneDrive\Desktop\CPP\Zaawansowany\MyTemplates\MyTemplates.cpp(43,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Weronika Słowińska\OneDrive\Desktop\CPP\Zaawansowany\MyTemplates\MyTemplates.cpp(68): message : see reference to function template instantiation 'T max<int>(T *,const unsigned int)' being compiled
+          with
+          [
+              T=int
+          ]
+  MyTemplates.vcxproj -> C:\Users\Weronika Słowińska\OneDrive\Desktop\CPP\Zaawansowany\x64\Debug\MyTemplates.exe
