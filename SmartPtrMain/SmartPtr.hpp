@@ -15,7 +15,7 @@ public:
 		delete _data;
 		_data = nullptr;
 	}
-	T operator*()
+	T& operator*()
 	{
 		return *_data;
 	}

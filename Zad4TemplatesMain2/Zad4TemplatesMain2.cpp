@@ -25,7 +25,14 @@ public:
     {
         for (int i = 0; i < N; ++i)
         {
-            std::cout << arr[i] << separator; // co zrobić żeby tu nie było na końcu tego znaku?
+            std::cout << arr[i];
+
+            if ((N - 1) == i) // dzięki temu na końcu nie wypisuje się już znak
+            {
+                break;
+            }
+
+            std::cout << separator; 
         }
     }
 
