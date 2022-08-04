@@ -1,0 +1,4 @@
+﻿  Zad2SlowaB.cpp
+C:\Users\Weronika Słowińska\OneDrive\Desktop\CPP\Zaawansowany\Zad2SlowaB\Zad2SlowaB.cpp(43,17): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Weronika Słowińska\OneDrive\Desktop\CPP\Zaawansowany\Zad2SlowaB\Zad2SlowaB.cpp(51,18): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  Zad2SlowaB.vcxproj -> C:\Users\Weronika Słowińska\OneDrive\Desktop\CPP\Zaawansowany\x64\Debug\Zad2SlowaB.exe
