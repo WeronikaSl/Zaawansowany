@@ -18,5 +18,8 @@
     <ClCompile Include="Pliki.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Pliki2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
